@@ -7,5 +7,5 @@ Login Page
 Regstration Page
 
 ![image](https://user-images.githubusercontent.com/98973295/188283775-5b917bcd-b7d4-420e-932f-29d8f8d894d7.png)
-![image](https://user-images.githubusercontent.com/98973295/188284078-0e718338-2dac-47a6-9880-011054ec04bb.png)
+![image](https://user-images.githubusercontent.com/98973295/188284106-8637c505-c4c1-4ea7-b5ea-dc85dceb0c4c.png)
 
