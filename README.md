@@ -2,10 +2,13 @@
 
 Login Page
 
-![image](https://user-images.githubusercontent.com/98973295/188283763-14202084-6526-4d95-ab37-8249a1078317.png)
+![image](https://user-images.githubusercontent.com/98973295/189529998-7eb5a21e-6769-4a97-9033-3ad56f0119f6.png)
+![image](https://user-images.githubusercontent.com/98973295/189530002-0ed71fa0-8c35-4079-9501-00d4c05bf577.png)
+
 
 Regstration Page
 
-![image](https://user-images.githubusercontent.com/98973295/188283775-5b917bcd-b7d4-420e-932f-29d8f8d894d7.png)
-![image](https://user-images.githubusercontent.com/98973295/188284106-8637c505-c4c1-4ea7-b5ea-dc85dceb0c4c.png)
+![image](https://user-images.githubusercontent.com/98973295/189530011-fccf7f99-5b8d-4248-8820-9d2e239561ee.png)
+![image](https://user-images.githubusercontent.com/98973295/189529958-45817d82-b2d6-4a26-8d6c-8c83dc0733cb.png)
+
 
