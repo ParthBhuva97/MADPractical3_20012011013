@@ -57,8 +57,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:orientation="vertical"
-                    android:padding="25dp"
-                    android:background="@drawable/card_background">
+                    android:padding="25dp">
 
                     <com.google.android.material.textfield.TextInputLayout
                         android:id="@+id/emailInput"
@@ -126,22 +125,18 @@
                     android:id="@+id/signupText"
                     android:text="Don't have an Account?"
                     android:textSize="20sp"
-                    android:layout_marginStart="10dp"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:padding="10dp"
                     />
 
                 <TextView
                     android:id="@+id/coloredSignUpText"
-                    android:textSize="25sp"
+                    android:textSize="20sp"
                     android:textColor="@color/pink"
                     android:text="SignUp"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="end"
-                    android:layout_marginStart="10dp"
-                    android:paddingTop="5dp"
                     />
             </LinearLayout>
 
